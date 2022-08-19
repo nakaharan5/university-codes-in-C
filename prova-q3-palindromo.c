@@ -21,4 +21,5 @@ int main(){
 	} else {
 		printf("Nao eh um palindromo");
 	}
+	return(0);
 }
