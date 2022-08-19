@@ -16,7 +16,7 @@ int main(){
 		
 		strcat(string1,string2);
 		
-		printf("Esse é seu nome completo?\nSim(1)\Nao(2)\n");
+		printf("Esse é seu nome completo?\nSim(1)\nNao(2)\n");
 		scanf("%d",&i);
 		
 		if(i==1){
